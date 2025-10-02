@@ -1,7 +1,7 @@
 # ✅ Todo List App
 
 A simple and user-friendly **Todo List Application** built with **Laravel** and **Bootstrap**.  
-This app allows users to manage their daily tasks efficiently — add, complete, and delete tasks with a clean modern UI.  
+This app allows users to manage their daily tasks efficiently -> add, complete, and delete tasks with a clean modern UI.  
 
 ---
 
